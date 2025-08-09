@@ -49,10 +49,6 @@ Estudiante de Computación Científica apasionado por convertir teoría matemát
 
 ###
 
-<img src="https://raw.githubusercontent.com/Cristian1191/Cristian1191/output/snake.svg" alt="Snake animation" />
-
-###
-
 ---
 
 ## 📫 Contacto
