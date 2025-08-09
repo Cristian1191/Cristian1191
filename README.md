@@ -48,7 +48,7 @@ Estudiante de Computación Científica apasionado por convertir teoría matemát
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cristian1191/Cristian1191/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Cristian1191/Cristian1191/output/pacman-contribution-graph.svg">
 </picture>
-
+---
 ###
 
 ## 📫 Contacto
