@@ -5,22 +5,21 @@
 ---
 
 ## 🚀 Sobre mí
-Estudiante de Computación Científica apasionado por convertir teoría matemática en modelos y soluciones prácticas. Me interesa el aprendizaje automático interpretable, la ingeniería de datos y la seguridad aplicada a sistemas y redes. Disfruto explicar ideas complejas — he organizado y dictado un taller sobre Análisis y Procesamiento de Datos (3 sesiones) en la universidad.
+Estudiante de Computación Científica apasionado por convertir teoría matemática en modelos y soluciones prácticas. Me interesa el aprendizaje automático interpretable, la ingeniería de datos y la seguridad aplicada a sistemas y redes. Disfruto explicar ideas complejas
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 - Lenguajes: **Python**, **C++**, PHP (Laravel), HTML/Tailwind  
 - Data & ML: **pandas**, NumPy, scikit-learn, Jupyter Notebooks  
-- Otros: Git, SQL básico, Linux, conceptos de redes (Packet Tracer)  
+- Otros: Git, SQL, Linux, conceptos de redes (Packet Tracer)  
 - Interés/Aprendizaje: visualización (matplotlib / seaborn), pipelines ETL, cloud basics
 
 ---
 
 ## 🎯 Qué hago actualmente
 - Profundizo en técnicas de Machine Learning aplicadas a problemas con base matemática.  
-- Construyo notebooks reproducibles para análisis exploratorio y enseñanza.  
-- Busco prácticas en análisis de datos para aplicar experiencia en programación y matemáticas.
+- Construyo notebooks reproducibles para análisis exploratorio y enseñanza. 
 
 ---
 
@@ -29,8 +28,7 @@ Estudiante de Computación Científica apasionado por convertir teoría matemát
 
 ---
 
-## 💡 Proyectos (nombres — los desarrollaré)
-> (Aquí dejo nombres y una línea corta de qué serán. Los iré subiendo como repositorios separados.)
+## 💡 Proyectos
 
 - **EDA_PublicDatasets** — Notebook de análisis exploratorio en datasets públicos (limpieza, visualización, insights).  
 - **ETL_Pipeline_Notebooks** — Pipelines reproducibles para extracción y transformación de datos en Python.  
