@@ -1,43 +1,45 @@
-t# 👋 Hola — soy Cristian Josue Bernal Nuñez
+# 👋 Hola — soy Cristian Josue Bernal Nuñez
 
-**Computational Science (UNMSM)** | Fuerte base matemática | Interés en **Machine Learning** y análisis de datos | Python · C++ · Linux
+**Computational Science (UNMSM)** | Base matemática sólida | Interés en **Ciberseguridad** y **Pentesting** | Python · C++ · Linux · Redes
 
 ---
 
 ## 🚀 Sobre mí
-Estudiante de Computación Científica apasionado por convertir teoría matemática en modelos y soluciones prácticas. Me interesa el aprendizaje automático interpretable, la ingeniería de datos y la seguridad aplicada a sistemas y redes. Disfruto explicar ideas complejas
+Estudiante de Computación Científica apasionado por la **ciberseguridad ofensiva** y el análisis de vulnerabilidades.  
+Me interesa el área de **pentesting**, la seguridad en sistemas y redes, y la exploración de entornos Linux para fines de investigación y práctica.  
+Disfruto aprender nuevas técnicas de hacking ético y compartir conocimientos con la comunidad.
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
-- Lenguajes: **Python**, **C++**, PHP (Laravel), HTML/Tailwind  
-- Data & ML: **pandas**, NumPy, scikit-learn, Jupyter Notebooks  
-- Otros: Git, SQL, Linux, conceptos de redes (Packet Tracer)  
-- Interés/Aprendizaje: visualización (matplotlib / seaborn), pipelines ETL, cloud basics
+- **Lenguajes:** Python, C++, PHP (Laravel), HTML/Tailwind  
+- **Ciberseguridad:** Linux (entornos de práctica), Packet Tracer, análisis de logs, fundamentos de protocolos y redes  
+- **Otros:** Git, SQL, scripting en Python, automatización de tareas  
+- **En progreso:** Pentesting, herramientas de hacking ético, reconocimiento y explotación de vulnerabilidades
 
 ---
 
 ## 🎯 Qué hago actualmente
-- Profundizo en técnicas de Machine Learning aplicadas a problemas con base matemática.  
-- Construyo notebooks reproducibles para análisis exploratorio y enseñanza. 
+- Profundizo en conceptos de **pentesting** y seguridad en redes.  
+- Construyo proyectos personales para practicar **automatización, scripting y simulaciones de escenarios de seguridad**.  
+- Desarrollo una base sólida en Linux y networking como pilares de ciberseguridad.
 
 ---
 
 ## 📚 Talleres y docencia
-- **Organizador y docente** — Taller “Análisis y Procesamiento de Datos” (3 sesiones) — diseñé el temario, dicté la primera sesión (fundamentos y Jupyter) y coordiné ponentes y materiales.
+- **Organizador y docente** — Taller “Análisis y Procesamiento de Datos” (UNMSM).  
+  *(Actualmente orientando mi experiencia de enseñanza hacia temas de seguridad informática y prácticas en Linux).*
 
 ---
 
 ## 💡 Proyectos
+*(Algunos académicos y personales relacionados con programación y seguridad)*
 
-- **EDA_PublicDatasets** — Notebook de análisis exploratorio en datasets públicos (limpieza, visualización, insights).  
-- **ETL_Pipeline_Notebooks** — Pipelines reproducibles para extracción y transformación de datos en Python.  
-- **ML_Math_Experiments** — Implementaciones didácticas de algoritmos (perceptrón, regresión, regularización) explicando la teoría.  
-- **NetAnomaly-Detector** — Analizador de logs de red para detección básica de anomalías (enfoque estadístico).  
-- **VisualDash-Py** — Visualizador interactivo de métricas y dashboards sencillos (exportable a web).  
-- **IBCONSTRUYE-Extensions** — Pequeñas funciones y scripts inspirados en tareas realizadas en IBCONSTRUYE (PHP/Laravel) para manejo de datos.  
-- **MathToCode** — Ejemplos que traducen resultados matemáticos a código reproducible (álgebra lineal aplicada a ML).  
-- **Automate-Reports** — Scripts para automatizar la generación de reportes a partir de datos (Jupyter + exports PDF/HTML).
+- **NetAnomaly-Detector** — Analizador de logs de red para detección básica de anomalías.  
+- **Automate-Reports** — Scripts en Python para automatizar reportes técnicos.  
+- **IBCONSTRUYE-Extensions** — Funciones y scripts en PHP/Laravel para manejo de datos (inspirados en experiencia laboral).  
+- **Linux-SecScripts (en progreso)** — Scripts en Bash/Python para administración y seguridad en Linux.  
+- **C++-Algorithms** — Programas para resolver problemas algorítmicos y de estructuras de datos.
 
 ---
 
@@ -46,19 +48,14 @@ Estudiante de Computación Científica apasionado por convertir teoría matemát
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cristian1191&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-
-###
-
 ---
 
 ## 📫 Contacto
 - Email: cristian.bernal@unmsm.edu.pe  
 - LinkedIn: *(añade tu URL aquí)*  
-- Twitter / X: *(añade si quieres)*
 
 ---
 
 ## ✨ Nota final
-Estoy abierto a colaboraciones y a recibir feedback en notebooks y proyectos. Si te interesa algún repositorio o idea, escríbeme y lo desarrollamos juntos.
-
-<!-- Gracias por pasar por mi perfil 👋 -->
+Abierto a colaborar en proyectos relacionados con **ciberseguridad, pentesting y Linux**.  
+Si te interesa compartir ideas, practicar juntos o desarrollar herramientas, ¡escríbeme!  
