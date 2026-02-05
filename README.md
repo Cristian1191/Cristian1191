@@ -1,4 +1,4 @@
-# 👋 Hola, soy Cristian Josue Bernal Nuñez
+# 👋 Hola, soy Cristian J.
 
 **Computación Científica (UNMSM)**  
 🧠 Base matemática sólida aplicada a **Ciberseguridad**  
