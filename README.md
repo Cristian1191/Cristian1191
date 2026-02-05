@@ -1,6 +1,6 @@
 # 👋 Hola — soy Cristian Josue Bernal Nuñez
 
-**Computational Science (UNMSM)** | Base matemática sólida | Interés en **Ciberseguridad** y **Pentesting** | Python · C++ · Linux · Redes
+**Computational Science (UNMSM)** | Base matemática sólida | Interés en **Ciberseguridad** y **Malware** | Python · C++ · Linux · Redes
 
 ---
 
