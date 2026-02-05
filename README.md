@@ -17,7 +17,7 @@ Mi enfoque no es solo usar herramientas, sino **crearlas**:
 - Modelar comportamientos usando **pensamiento matemático**
 - Diseñar **scripts y frameworks de análisis** en Python y C++
 
-Me interesa el rol de **Malware Analyst / Security Researcher**, donde la programación, los sistemas operativos y la matemática se combinan para explicar *qué ocurre realmente bajo el capó*.
+Me interesa el rol de **Malware Analyst / Security Researcher**, donde la programación, los sistemas operativos y la matemática se combinan para explicar qué ocurre realmente a nivel de bytes, memoria y llamadas al sistema.
 
 ---
 
@@ -43,7 +43,7 @@ Me interesa el rol de **Malware Analyst / Security Researcher**, donde la progra
 - **PHP (Laravel)** — experiencia previa en backend
 
 ### Seguridad & Sistemas
-- Linux (Pop!_OS / entornos de práctica)
+- Linux
 - Análisis de logs
 - Fundamentos de redes y protocolos
 - Git y control de versiones
@@ -89,15 +89,15 @@ Me interesa el rol de **Malware Analyst / Security Researcher**, donde la progra
 
 ---
 
-## 📚 Docencia y divulgación
+## 📚 Divulgación y comunidad
 
-- **Organizador y docente** — Taller *“Análisis y Procesamiento de Datos”* (UNMSM)  
-  Actualmente reorientando la experiencia docente hacia:
-  - Linux
-  - análisis técnico
-  - fundamentos de seguridad informática
+- **Organizador de grupo de estudio en ciberseguridad** (UNMSM)  
+  Espacio colaborativo enfocado en:
+  - fundamentos de ciberseguridad y Blue Team
+  - uso de Linux para análisis técnico
+  - buenas prácticas, ética y políticas básicas de seguridad
 
-Me interesa **explicar conceptos complejos de forma clara**, especialmente cuando combinan matemática, programación y sistemas.
+Me interesa **divulgar conceptos técnicos de forma clara**, especialmente cuando combinan matemática, programación y sistemas.
 
 ---
 
@@ -126,7 +126,6 @@ Con un perfil diferencial basado en **análisis profundo, creación de herramien
 ## 📫 Contacto
 
 - 📧 Email: cristian.bernal@unmsm.edu.pe  
-- 💼 LinkedIn: *(agrega tu enlace)*  
 
 ---
 
