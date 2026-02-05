@@ -1,61 +1,136 @@
-# 👋 Hola — soy Cristian Josue Bernal Nuñez
+# 👋 Hola, soy Cristian Josue Bernal Nuñez
 
-**Computational Science (UNMSM)** | Base matemática sólida | Interés en **Ciberseguridad** y **Malware** | Python · C++ · Linux · Redes
+**Computación Científica (UNMSM)**  
+🧠 Base matemática sólida aplicada a **Ciberseguridad**  
+🛡️ Enfoque en **Malware Analysis, Threat Modeling y Security Research**  
+🐍 Python · ⚙️ C++ · 🐧 Linux · 🌐 Redes
 
 ---
 
-## 🚀 Sobre mí
-Estudiante de Computación Científica apasionado por la **ciberseguridad ofensiva** y el análisis de vulnerabilidades.  
-Me interesa el área de **pentesting**, la seguridad en sistemas y redes, y la exploración de entornos Linux para fines de investigación y práctica.  
-Disfruto aprender nuevas técnicas de hacking ético y compartir conocimientos con la comunidad.
+## 🔍 Sobre mí
+
+Soy estudiante de **Computación Científica** con un fuerte interés en **ciberseguridad ofensiva y análisis de malware**, especialmente en **entender cómo se comporta, se propaga y deja rastros un software malicioso**.
+
+Mi enfoque no es solo usar herramientas, sino **crearlas**:
+
+- Analizar **logs, binarios y artefactos del sistema**
+- Modelar comportamientos usando **pensamiento matemático**
+- Diseñar **scripts y frameworks de análisis** en Python y C++
+
+Me interesa el rol de **Malware Analyst / Security Researcher**, donde la programación, los sistemas operativos y la matemática se combinan para explicar *qué ocurre realmente bajo el capó*.
+
+---
+
+## 🧠 Enfoque técnico
+
+- 🧩 **Análisis de malware** (estático y conceptual, en progreso)
+- 📊 **Análisis de logs y eventos** para detección de patrones
+- 🧮 Aplicación de ideas matemáticas a:
+  - propagación de malware  
+  - detección de anomalías  
+  - modelado de comportamiento
+- 🐧 **Linux** como entorno principal de trabajo y experimentación
+- 🔐 Seguridad en redes y sistemas
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
-- **Lenguajes:** Python, C++, PHP (Laravel), HTML/Tailwind  
-- **Ciberseguridad:** Linux (entornos de práctica), Packet Tracer, análisis de logs, fundamentos de protocolos y redes  
-- **Otros:** Git, SQL, scripting en Python, automatización de tareas  
-- **En progreso:** Pentesting, herramientas de hacking ético, reconocimiento y explotación de vulnerabilidades
+
+### Lenguajes
+- **Python** — análisis, automatización, parsing de logs, generación de reportes
+- **C++** — binarios, manejo de memoria, estructuras, simulaciones
+- **Bash** — scripting en Linux
+- **PHP (Laravel)** — experiencia previa en backend
+
+### Seguridad & Sistemas
+- Linux (Pop!_OS / entornos de práctica)
+- Análisis de logs
+- Fundamentos de redes y protocolos
+- Git y control de versiones
+
+### En progreso
+- Malware analysis (nivel más profundo)
+- Pentesting (fundamentos)
+- Modelos matemáticos aplicados a seguridad
+- Ingeniería inversa (intro)
 
 ---
 
-## 🎯 Qué hago actualmente
-- Profundizo en conceptos de **pentesting** y seguridad en redes.  
-- Construyo proyectos personales para practicar **automatización, scripting y simulaciones de escenarios de seguridad**.  
-- Desarrollo una base sólida en Linux y networking como pilares de ciberseguridad.
+## 🔬 Qué hago actualmente
+
+- Desarrollo **proyectos propios de análisis de seguridad**, desde cero
+- Experimento con **malware controlado** para entender:
+  - comportamiento
+  - artefactos
+  - impacto en el sistema
+- Creo **scripts en Python** para automatizar análisis y generar reportes técnicos
+- Fortalezco mi base en **Linux, redes y sistemas operativos**
 
 ---
 
-## 📚 Talleres y docencia
-- **Organizador y docente** — Taller “Análisis y Procesamiento de Datos” (UNMSM).  
-  *(Actualmente orientando mi experiencia de enseñanza hacia temas de seguridad informática y prácticas en Linux).*
+## 💡 Proyectos destacados
+
+*(Académicos y personales, enfocados en seguridad y análisis)*
+
+- **NetAnomaly-Analyzer**  
+  Analizador de logs de red para detección de anomalías y patrones sospechosos.
+
+- **Malware-Behavior-Lab** *(en progreso)*  
+  Entorno de experimentación para estudiar comportamiento de malware controlado y analizar sus artefactos.
+
+- **Log2Report**  
+  Pipeline en Python que procesa logs, extrae métricas relevantes y genera reportes técnicos automatizados.
+
+- **Linux-SecScripts**  
+  Colección de scripts en Bash y Python para monitoreo, análisis y tareas de seguridad en Linux.
+
+- **C++-Systems-Experiments**  
+  Programas en C++ enfocados en memoria, archivos y simulaciones relacionadas a seguridad y sistemas.
 
 ---
 
-## 💡 Proyectos
-*(Algunos académicos y personales relacionados con programación y seguridad)*
+## 📚 Docencia y divulgación
 
-- **NetAnomaly-Detector** — Analizador de logs de red para detección básica de anomalías.  
-- **Automate-Reports** — Scripts en Python para automatizar reportes técnicos.  
-- **IBCONSTRUYE-Extensions** — Funciones y scripts en PHP/Laravel para manejo de datos (inspirados en experiencia laboral).  
-- **Linux-SecScripts (en progreso)** — Scripts en Bash/Python para administración y seguridad en Linux.  
-- **C++-Algorithms** — Programas para resolver problemas algorítmicos y de estructuras de datos.
+- **Organizador y docente** — Taller *“Análisis y Procesamiento de Datos”* (UNMSM)  
+  Actualmente reorientando la experiencia docente hacia:
+  - Linux
+  - análisis técnico
+  - fundamentos de seguridad informática
+
+Me interesa **explicar conceptos complejos de forma clara**, especialmente cuando combinan matemática, programación y sistemas.
 
 ---
+
+## 🎯 Objetivo profesional
+
+Apuntar a roles como:
+
+- **Malware Analyst (Junior / Trainee)**
+- **Security Researcher**
+- **Threat Analyst**
+- **Security Engineer (en formación)**
+
+Con un perfil diferencial basado en **análisis profundo, creación de herramientas y pensamiento matemático**.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cristian1191&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cristian1191&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cristian1191&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cristian1191&layout=compact&theme=dracula" height="150"/>
 </div>
 
 ---
 
 ## 📫 Contacto
-- Email: cristian.bernal@unmsm.edu.pe  
-- LinkedIn: *(añade tu URL aquí)*  
+
+- 📧 Email: cristian.bernal@unmsm.edu.pe  
+- 💼 LinkedIn: *(agrega tu enlace)*  
 
 ---
 
-## ✨ Nota final
-Abierto a colaborar en proyectos relacionados con **ciberseguridad, pentesting y Linux**.  
-Si te interesa compartir ideas, practicar juntos o desarrollar herramientas, ¡escríbeme!  
+## 🧠 Nota final
+
+No busco solo “aprender herramientas”, sino **entender fenómenos de seguridad desde la raíz**.  
+Si te interesa colaborar en proyectos de **ciberseguridad, malware analysis o investigación técnica**, conversemos.
