@@ -96,12 +96,11 @@ También tengo experiencia trabajando con tecnologías de frontend, lo que me pe
 
 Apuntar a roles como:
 
+- **Cloud Engineer (en formación)**
 - **Backend Developer**
 - **Software Engineer**
-- **Full-Stack Developer (con foco en backend)**
 
-Construyendo un perfil basado en **lógica, estructura y eficiencia**.
-
+Interesado en el desarrollo de sistemas en la nube, automatización y despliegue de servicios, combinando backend, Linux y herramientas modernas para construir soluciones escalables y eficientes.
 ---
 
 ## 📊 GitHub Stats
@@ -119,14 +118,20 @@ Construyendo un perfil basado en **lógica, estructura y eficiencia**.
 
 ---
 
-## ⏱️ I Spend My Time On
+## 📈 Most Used Languages
 
-```text
-💬 Programming Languages:
-JavaScript               ████████████████
-React                    ████████████████
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cristian1191&show_icons=true&theme=dracula&layout=compact" />
+</p>
 
-🔥 Focus:
-Backend Development
-Algorithms & Logic
-System Design
+---
+
+## 📫 Contacto
+
+- 📧 cristian.bernal@unmsm.edu.pe  
+
+---
+
+## 🧠 Nota final
+
+Me interesa construir software bien pensado, donde la lógica y la eficiencia sean tan importantes como el resultado.
