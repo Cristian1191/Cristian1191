@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Computación Científica (UNMSM)</b><br/>
+  <b>Computación Científica </b><br/>
   Base matemática aplicada a <b>lógica y optimización de algoritmos</b><br/>
   Interesado en <b>backend, sistemas y construcción de software eficiente</b><br/>
 </p>
@@ -14,16 +14,28 @@
 
 ## 🔍 Sobre mí
 
-Soy estudiante de **Computación Científica** enfocado en el **desarrollo backend** y en entender cómo funcionan los sistemas a nivel lógico y estructural.
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%" align="left">
+
+Soy estudiante de <b>Computación Científica</b> enfocado en el <b>desarrollo backend</b> y en entender cómo funcionan los sistemas a nivel lógico y estructural.
 
 Me interesa construir software que no solo funcione, sino que esté bien pensado:
 
-- Diseño de **algoritmos eficientes** con base matemática  
-- Desarrollo de **servicios y lógica backend**  
-- Análisis de **datos, logs y comportamiento del sistema**  
+- Diseño de <b>algoritmos eficientes</b> con base matemática  
+- Desarrollo de <b>servicios y lógica backend</b>  
+- Análisis de <b>datos, logs y comportamiento del sistema</b>  
 
 También tengo experiencia trabajando con tecnologías de frontend, lo que me permite entender y construir aplicaciones completas cuando es necesario.
 
+      </td>
+      <td width="40%" align="center">
+        <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="250"/>
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 ## 🧠 Enfoque técnico
