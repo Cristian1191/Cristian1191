@@ -4,57 +4,55 @@
 
 <p align="center">
   <b>Computación Científica (UNMSM)</b><br/>
-  Base matemática sólida aplicada a <b>lógica y optimización de algoritmos</b><br/>
-  Enfoque en <b>desarrollo backend</b> y <b>React</b> como prioridad en front-end<br/>
-  Python · C++ · JavaScript · React · Linux · Git
+  Base matemática aplicada a <b>lógica y optimización de algoritmos</b><br/>
+  Interesado en <b>backend, sistemas y construcción de software eficiente</b><br/>
+  Python · C++ · JavaScript · Linux · Git
 </p>
 
 ---
 
 ## 🔍 Sobre mí
 
-Soy estudiante de **Computación Científica** con un fuerte interés en el **desarrollo backend** y en construir software eficiente, estructurado y escalable.
+Soy estudiante de **Computación Científica** enfocado en el **desarrollo backend** y en entender cómo funcionan los sistemas a nivel lógico y estructural.
 
-Mi perfil combina:
+Me interesa construir software que no solo funcione, sino que esté bien pensado:
 
-- **Base matemática** para lógica y optimización de algoritmos
-- **Pensamiento computacional** aplicado a sistemas y datos
-- Desarrollo de **scripts, servicios y proyectos web**
-- Enfoque principal en **React** para front-end y **backend** con Python, Node.js y PHP
+- Diseño de **algoritmos eficientes** con base matemática  
+- Desarrollo de **servicios y lógica backend**  
+- Análisis de **datos, logs y comportamiento del sistema**  
 
-Me interesa crear soluciones bien pensadas, con buena estructura, rendimiento y claridad técnica.
+También tengo experiencia trabajando con tecnologías de frontend, lo que me permite entender y construir aplicaciones completas cuando es necesario.
 
 ---
 
 ## 🧠 Enfoque técnico
 
-- ⚙️ **Backend development**
-- ⚛️ **React** como prioridad en front-end
-- 🧮 **Optimización de algoritmos** y lógica computacional
-- 📊 **Procesamiento de datos y logs**
-- 🐧 **Linux** como entorno principal de trabajo
-- 🧩 Diseño de soluciones con base matemática
+- ⚙️ Desarrollo backend  
+- 🧮 Optimización de algoritmos y lógica computacional  
+- 📊 Procesamiento de datos  
+- 🐧 Linux como entorno principal  
+- 🧩 Pensamiento estructurado orientado a sistemas  
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
-**Front-end**
+**Backend / Systems**
+
+<code><img height="30" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=darkgreen"></code>
+<code><img height="30" src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"></code>
+
+**Frontend (complementario)**
 
 <code><img height="30" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"></code>
 <code><img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"></code>
 <code><img height="30" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"></code>
-
-**Back-end**
-
-<code><img height="30" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"></code>
 
 **Databases**
 
@@ -71,38 +69,26 @@ Me interesa crear soluciones bien pensadas, con buena estructura, rendimiento y 
 
 ## 🔬 Qué hago actualmente
 
-- Desarrollo proyectos propios de **backend y front-end**
-- Construyo interfaces con **React**
-- Trabajo en **servicios, lógica y automatización** con Python, Node.js y PHP
-- Fortalezco mi base en **Linux, sistemas y estructuras de datos**
-- Optimizo la lógica de mis proyectos con enfoque matemático
+- Desarrollo proyectos centrados en **backend**
+- Construyo lógica y automatización con **Python, Node.js y PHP**
+- Trabajo en **optimización de algoritmos**
+- Fortalezco mi base en **Linux y sistemas**
 
 ---
 
 ## 💡 Proyectos destacados
 
 - **NetAnomaly-Analyzer**  
-  Analizador de logs y patrones para detección de comportamientos inusuales.
+  Análisis de datos y detección de patrones.
 
 - **Log2Report**  
-  Pipeline en Python para procesar datos y generar reportes técnicos automáticos.
+  Procesamiento de datos y generación de reportes automatizados.
 
 - **Linux-Scripts**  
-  Colección de scripts en Bash y Python para automatización y administración del sistema.
+  Automatización y herramientas de sistema.
 
 - **C++-Systems-Experiments**  
-  Programas en C++ enfocados en memoria, archivos y comportamiento de sistemas.
-
----
-
-## 📚 Divulgación y comunidad
-
-Me interesa explicar conceptos técnicos de forma clara, especialmente cuando combinan:
-
-- matemática
-- programación
-- sistemas
-- optimización
+  Experimentos con memoria y comportamiento del sistema.
 
 ---
 
@@ -111,11 +97,10 @@ Me interesa explicar conceptos técnicos de forma clara, especialmente cuando co
 Apuntar a roles como:
 
 - **Backend Developer**
-- **Frontend Developer (React)**
-- **Full-Stack Developer**
 - **Software Engineer**
+- **Full-Stack Developer (con foco en backend)**
 
-Con un perfil basado en **lógica, optimización, estructura y desarrollo de soluciones eficientes**.
+Construyendo un perfil basado en **lógica, estructura y eficiencia**.
 
 ---
 
@@ -129,7 +114,7 @@ Con un perfil basado en **lógica, optimización, estructura y desarrollo de sol
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cristian1191&theme=dracula" alt="Cristian's streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cristian1191&theme=dracula" />
 </p>
 
 ---
@@ -142,6 +127,6 @@ JavaScript               ████████████████
 React                    ████████████████
 
 🔥 Focus:
-Frontend / Backend Projects
-Algorithm Logic
-System Thinking
+Backend Development
+Algorithms & Logic
+System Design
