@@ -10,6 +10,8 @@
 
 ---
 
+<img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300"/>
+
 ## 🔍 Sobre mí
 
 Soy estudiante de **Computación Científica** enfocado en el **desarrollo backend** y en entender cómo funcionan los sistemas a nivel lógico y estructural.
@@ -91,6 +93,7 @@ Apuntar a roles como:
 - **Software Engineer**
 
 Interesado en el desarrollo de sistemas en la nube, automatización y despliegue de servicios, combinando backend, Linux y herramientas modernas para construir soluciones escalables y eficientes.
+
 ---
 
 ## 📊 GitHub Stats
@@ -119,4 +122,3 @@ Interesado en el desarrollo de sistemas en la nube, automatización y despliegue
 ## 📫 Contacto
 
 - 📧 cristian.bernal@unmsm.edu.pe  
-
