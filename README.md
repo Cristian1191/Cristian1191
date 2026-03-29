@@ -3,17 +3,20 @@
 </p>
 
 <p align="center">
-  <b>Computación Científica </b><br/>
+  <b>Computación Científica</b><br/>
   Base matemática aplicada a <b>lógica y optimización de algoritmos</b><br/>
-  Interesado en <b>backend, sistemas y construcción de software eficiente</b><br/>
+  Interesado en <b>backend, sistemas y construcción de software eficiente</b>
 </p>
+
 ---
+
 ## 🔍 Sobre mí
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="60%" align="left">
+
+<table>
+<tr>
+<td width="60%" align="left">
 
 Soy estudiante de <b>Computación Científica</b> enfocado en el <b>desarrollo backend</b> y en entender cómo funcionan los sistemas a nivel lógico y estructural.
 
@@ -25,13 +28,19 @@ Me interesa construir software que no solo funcione, sino que esté bien pensado
 
 También tengo experiencia trabajando con tecnologías de frontend, lo que me permite entender y construir aplicaciones completas cuando es necesario.
 
-      </td>
-      <td width="40%" align="center">
-        <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="250"/>
-      </td>
-    </tr>
-  </table>
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="260"/>
+
+</td>
+</tr>
+</table>
+
 </div>
+
+---
 
 ## 🧠 Enfoque técnico
 
@@ -128,4 +137,4 @@ Interesado en el desarrollo de sistemas en la nube, automatización y despliegue
 
 ## 📫 Contacto
 
-- 📧 cristian.bernal@unmsm.edu.pe  
+- 📧 cristian.bernal@unmsm.edu.pe
