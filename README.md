@@ -7,7 +7,6 @@
   Base matemática aplicada a <b>lógica y optimización de algoritmos</b><br/>
   Interesado en <b>backend, sistemas y construcción de software eficiente</b><br/>
 </p>
-
 ---
 ## 🔍 Sobre mí
 
@@ -33,7 +32,6 @@ También tengo experiencia trabajando con tecnologías de frontend, lo que me pe
     </tr>
   </table>
 </div>
----
 
 ## 🧠 Enfoque técnico
 
