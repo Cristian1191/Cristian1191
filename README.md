@@ -6,7 +6,6 @@
   <b>Computación Científica (UNMSM)</b><br/>
   Base matemática aplicada a <b>lógica y optimización de algoritmos</b><br/>
   Interesado en <b>backend, sistemas y construcción de software eficiente</b><br/>
-  Python · C++ · JavaScript · Linux · Git
 </p>
 
 ---
@@ -67,15 +66,6 @@ También tengo experiencia trabajando con tecnologías de frontend, lo que me pe
 
 ---
 
-## 🔬 Qué hago actualmente
-
-- Desarrollo proyectos centrados en **backend**
-- Construyo lógica y automatización con **Python, Node.js y PHP**
-- Trabajo en **optimización de algoritmos**
-- Fortalezco mi base en **Linux y sistemas**
-
----
-
 ## 💡 Proyectos destacados
 
 - **NetAnomaly-Analyzer**  
@@ -130,8 +120,3 @@ Interesado en el desarrollo de sistemas en la nube, automatización y despliegue
 
 - 📧 cristian.bernal@unmsm.edu.pe  
 
----
-
-## 🧠 Nota final
-
-Me interesa construir software bien pensado, donde la lógica y la eficiencia sean tan importantes como el resultado.
